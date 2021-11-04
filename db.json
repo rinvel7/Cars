@@ -1,0 +1,66 @@
+{
+  "trilhas": [
+    {
+      "id": 1,
+      "title": "Praia da Ponta Negra",
+      "description": "Para aproveitar o calor, nada melhor do que uma praia, não é mesmo? Então, passe algumas horas de diversão na orla à beira do Rio Negro",
+      "ranking": 4,
+      "imgs": "https://media-cdn.tripadvisor.com/media/photo-s/0d/ad/f3/ec/ponta-negra-beach.jpg"
+    },
+    {
+      "id": 2,
+      "title": "teatro amazonas",
+      "description": "Uma das mais antigas e importante atração da cidade, o teatro foi fundado em 1886 com o intuito de promover diversão para os barões da borracha.",
+      "ranking": 4,
+      "imgs": "https://media-cdn.tripadvisor.com/media/photo-s/0c/20/49/13/vista-externa-do-teatro.jpg"
+    },
+    {
+      "title": "Encontro das Águas",
+      "imgs": "https://www.vivereimoveis.com.br/uploads/capturas/01-12-2020_05-19-55(1352)0.65885100%201606807195.jpg",
+      "description": "Não deixe de percorrer os 6 quilômetros de extensão do rio que de um lado tem água escura e do outro, clara.",
+      "points": 1,
+      "ranking": 3,
+      "id": 3
+    },
+    {
+      "title": "Museu da Borracha",
+      "imgs": "https://viajabrasil.com.br/wp-content/uploads/sites/11/2019/08/Museu-da-Borracha.jpg",
+      "description": "sse é um passeio cheio de cultura e história e, por isso, é imperdível! A Vila Paraíso, como é chamado o museu, está aberta para visitação e conta a história do avanço de Manaus por meio da exploração do látex.",
+      "points": 1,
+      "ranking": 1,
+      "id": 4
+    },
+    {
+      "title": "Centro Cultural dos Povos da Amazônia",
+      "imgs": "https://cdn.emtempo.com.br/img/inline/140000/41107588342_6ae14ef64f_k_00146797_8.jpg?xid=527600",
+      "description": "Você tem curiosidade em conhecer os artefatos indígenas? Então, não deixe de visitar o Centro Cultural dos Povos da Amazônia. ",
+      "points": 1,
+      "ranking": 3,
+      "id": 5
+    },
+    {
+      "title": "Mercado Municipal de Manaus",
+      "imgs": "http://www.ipatrimonio.org/wp-content/uploads/2017/04/Mercadomanaus_2014_Arnoldo-Riker.jpg",
+      "description": "Para conhecer bem uma região, visite o Mercado Municipal da cidade. Em Manaus, você vai encontrar muito artesanato, os cheiros e temperos da cultura local. ",
+      "points": 1,
+      "ranking": 4,
+      "id": 6
+    },
+    {
+      "title": "Os museus e o Palacete Provincial",
+      "imgs": "https://i.pinimg.com/originals/dd/7d/9c/dd7d9cfbdb37ccc7d085b81b2bad5107.jpg",
+      "description": "O Palacete Provincial reúne uma série de atrações interessantes. No mesmo prédio, localizado na região central da cidade, o visitante poderá encontrar outros interessantes locais voltados para a arte e cultura de Manaus.",
+      "points": 1,
+      "ranking": 1,
+      "id": 7
+    },
+    {
+      "title": "Jardim Botânico Adolpho Ducke",
+      "imgs": "https://aventuresedotcom.files.wordpress.com/2018/08/museu-amazonia.jpg",
+      "description": "E por que não fazer um passeio em meio à mata para conhecer um pouco mais da fauna e flora local? ",
+      "points": 1,
+      "ranking": 4,
+      "id": 8
+    }
+  ]
+}
